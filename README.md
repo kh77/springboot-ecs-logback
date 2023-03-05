@@ -37,11 +37,7 @@
   * Using a common schema across different services and teams makes it possible create reusable dashboards and avoids mapping explosions.
 
   * APM Log correlation
-  If you are using an Elastic APM agent, you can leverage the log correlation feature without any additional configuration. This lets you jump from the Span timeline in the APM UI to the Logs app, showing only the logs which belong to the corresponding request. Vice versa, you can also jump from a log line in the Logs UI to the Span Timeline of the APM UI.
-  - Please check log-back.xml file for logging in console and file(threshold, maxSize)
-
-  - Restrict logging level through package level 
-
-  - Write log in json or log file based upon condition 'file.write_json: true', check application.yml file
-
-  - Add dependency for json logback and janino for condition in the logback file
+  
+  
+      If you are using an Elastic APM agent, you can leverage the log correlation feature without any additional configuration. This lets you jump from the Span timeline in the APM UI to the Logs app, showing only the logs which belong to the corresponding request. Vice versa, you can also jump from a log line in the Logs UI to the Span Timeline of the APM UI.
+ 
