@@ -1,0 +1,6 @@
+2023-03-05 16:15:27.806  INFO 15588 --- [main] com.sm.Application                       : Starting Application using Java 1.8.0_341 on N14911 with PID 15588 (C:\Users\kahussain\Downloads\springboot-logback-main\target\classes started by kahussain in C:\Users\kahussain\Downloads\springboot-logback-main)
+2023-03-05 16:15:27.813  INFO 15588 --- [main] com.sm.Application                       : No active profile set, falling back to 1 default profile: "default"
+2023-03-05 16:15:29.762  INFO 15588 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2023-03-05 16:15:30.223  INFO 15588 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2309 ms
+2023-03-05 16:15:30.927  INFO 15588 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2023-03-05 16:15:30.943  INFO 15588 --- [main] com.sm.Application                       : Started Application in 4.506 seconds (JVM running for 6.68)
